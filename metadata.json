@@ -1,0 +1,6 @@
+{
+  "name": "InnerEdge",
+  "description": "InnerEdge is an AI-powered trading journal and emotional self-analysis platform built for modern traders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
